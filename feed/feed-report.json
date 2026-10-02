@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-02T22:29:09.469360+00:00",
+  "generated_at_utc": "2026-10-02T22:51:49.384573+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
   "discovered_vehicle_count": 384,
   "accepted_vehicle_count": 377,
   "rejected_vehicle_count": 7,
   "request_failure_count": 0,
-  "elapsed_seconds": 94.59,
+  "elapsed_seconds": 145.24,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
