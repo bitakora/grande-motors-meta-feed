@@ -1,0 +1,45 @@
+name: Update Meta vehicle feed
+
+on:
+  schedule:
+    - cron: "17 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-meta-vehicle-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate and validate feed
+        run: python generate_feed.py
+
+      - name: Commit changed feed files
+        run: |
+          git config user.name "grande-motors-feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed/
+          if git diff --cached --quiet; then
+            echo "Feed has not changed."
+          else
+            git commit -m "Update Meta vehicle feed"
+            git push
+          fi
