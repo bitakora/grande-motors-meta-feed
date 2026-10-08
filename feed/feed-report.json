@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-07T22:00:47.077541+00:00",
+  "generated_at_utc": "2026-10-08T22:05:20.902051+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 386,
-  "accepted_vehicle_count": 378,
-  "rejected_vehicle_count": 8,
+  "discovered_vehicle_count": 389,
+  "accepted_vehicle_count": 382,
+  "rejected_vehicle_count": 7,
   "request_failure_count": 0,
-  "elapsed_seconds": 148.64,
+  "elapsed_seconds": 112.57,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2005-Mitsubishi-Outlander/13664",
@@ -17,10 +17,6 @@
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
-      "reason": "missing required field(s): image"
-    },
-    {
-      "url": "https://www.grandemotors.co.nz/vehicle/2016-Nissan-Note/13648",
       "reason": "missing required field(s): image"
     },
     {
