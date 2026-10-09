@@ -1,26 +1,22 @@
 {
-  "generated_at_utc": "2026-10-08T22:05:20.902051+00:00",
+  "generated_at_utc": "2026-10-09T21:42:43.266803+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 389,
-  "accepted_vehicle_count": 382,
-  "rejected_vehicle_count": 7,
+  "discovered_vehicle_count": 394,
+  "accepted_vehicle_count": 388,
+  "rejected_vehicle_count": 6,
   "request_failure_count": 0,
-  "elapsed_seconds": 112.57,
+  "elapsed_seconds": 147.86,
   "rejected": [
-    {
-      "url": "https://www.grandemotors.co.nz/vehicle/2005-Mitsubishi-Outlander/13664",
-      "reason": "missing required field(s): image"
-    },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2012-Nissan-Serena/13701",
       "reason": "missing required field(s): image"
     },
     {
-      "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
+      "url": "https://www.grandemotors.co.nz/vehicle/2005-Mitsubishi-Outlander/13664",
       "reason": "missing required field(s): image"
     },
     {
-      "url": "https://www.grandemotors.co.nz/vehicle/2007-Mitsubishi-Outlander/13645",
+      "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
       "reason": "missing required field(s): image"
     },
     {
