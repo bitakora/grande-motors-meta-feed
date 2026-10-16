@@ -1,35 +1,35 @@
 {
-  "generated_at_utc": "2026-10-16T19:58:58.781367+00:00",
+  "generated_at_utc": "2026-10-16T21:34:31.689650+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
   "discovered_vehicle_count": 393,
   "accepted_vehicle_count": 387,
   "rejected_vehicle_count": 6,
   "request_failure_count": 0,
-  "elapsed_seconds": 140.92,
+  "elapsed_seconds": 109.78,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2012-Nissan-Serena/13701",
-      "reason": "missing required field(s): image"
+      "reason": "missing required field(s): price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2005-Mitsubishi-Outlander/13664",
-      "reason": "missing required field(s): image"
+      "reason": "missing required field(s): price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
-      "reason": "missing required field(s): image"
+      "reason": "missing required field(s): price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/0-Toyota-PriusPHV/13466",
-      "reason": "missing required field(s): year, make, model, image"
+      "reason": "missing required field(s): year, make, model, price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2001-Toyota-/13241",
-      "reason": "missing required field(s): model, image"
+      "reason": "missing required field(s): model, price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2006-Honda-CRV/12734",
-      "reason": "missing required field(s): image"
+      "reason": "missing required field(s): price, image"
     }
   ]
 }

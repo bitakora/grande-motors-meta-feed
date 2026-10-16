@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Build Meta catalogue feeds from Grande Motors' public vehicle listings.
 
-The script reads only public pages from grandemotors.co.nz. It produces both an
-automotive inventory feed and a standard commerce feed so the existing Meta
-catalogue can use whichever format it was created for.
+The script reads only public pages from grandemotors.co.nz. The active Meta
+Vehicles catalogue uses the automotive feed. Standard commerce output is retained
+for legacy compatibility, not as a replacement for the vehicle-specific source.
 """
 
 from __future__ import annotations
@@ -190,6 +190,9 @@ class Vehicle:
     drivetrain: str = ""
     fuel_type: str = ""
     engine_size: str = ""
+    on_road_costs_nzd: int | None = None
+    on_road_costs_note: str = ""
+    in_transit: bool = False
 
     def automotive_row(self) -> dict[str, object]:
         row: dict[str, object] = {
@@ -466,15 +469,27 @@ def first_spec(specs: dict[str, str], *labels: str) -> str:
     return ""
 
 
+def primary_price_element(soup: BeautifulSoup):
+    # Only this vehicle's price panel is authoritative. Related-car cards also
+    # contain span.price, including on pages where this vehicle is POA.
+    return soup.select_one(".price-container-content > span.price")
+
+
 def parse_price(soup: BeautifulSoup) -> int:
-    for element in soup.select("span.price"):
-        text = compact_text(element.get_text(" ", strip=True))
-        match = re.match(r"\$\s*(\d[\d,]*)(?:\.\d{1,2})?\b", text)
-        if match:
-            return int(match.group(1).replace(",", ""))
-    og_description = meta_content(soup, "og:description")
-    match = re.search(r"\$\s*(\d[\d,]*)", og_description)
+    element = primary_price_element(soup)
+    if element is None:
+        return 0
+    text = compact_text(element.get_text(" ", strip=True))
+    match = re.match(r"\$\s*(\d[\d,]*)(?:\.\d{1,2})?\b", text)
     return int(match.group(1).replace(",", "")) if match else 0
+
+
+def parse_on_road_costs(soup: BeautifulSoup) -> tuple[str, int | None]:
+    element = primary_price_element(soup)
+    note_element = element.select_one(".on-road-costs") if element else None
+    note = compact_text(note_element.get_text(" ", strip=True)) if note_element else ""
+    match = re.search(r"\bplus\s*\$\s*(\d[\d,]*)\b", note, flags=re.I)
+    return note, int(match.group(1).replace(",", "")) if match else None
 
 
 def parse_mileage(specs: dict[str, str], page_text: str) -> int:
@@ -603,17 +618,38 @@ def parse_images(soup: BeautifulSoup, page_url: str, title: str) -> list[str]:
     return images
 
 
-def build_description(title: str, og_description: str, specs: dict[str, str]) -> str:
-    description = compact_text(og_description)
-    description = re.sub(r"\s+\|\s+Grande Motors.*$", "", description, flags=re.I)
-    if len(description) < 40:
-        engine = first_spec(specs, "Engine")
-        odometer = first_spec(specs, "Odometer", "Mileage")
-        details = ", ".join(value for value in (engine, odometer) if value)
-        description = f"{title}. {details}".rstrip(". ") + "."
-    if DEALER_NAME.casefold() not in description.casefold():
-        description = f"{description} Available from {DEALER_NAME}, East Tamaki, Auckland."
-    return description[:4999]
+def build_description(
+    title: str,
+    specs: dict[str, str],
+    price: int,
+    on_road_costs_note: str,
+    on_road_costs_nzd: int | None,
+    in_transit: bool,
+) -> str:
+    # Open Graph snippets are often truncated mid-sentence and can contain stale
+    # model-year claims. Use the vehicle heading and structured specifications.
+    parts = [title.rstrip(". ") + "."]
+    for label, names in (
+        ("Odometer", ("Odometer", "Mileage")),
+        ("Engine", ("Engine", "Engine Size")),
+        ("Transmission", ("Transmission",)),
+        ("Exterior colour", ("Ext Colour", "Exterior Colour", "Exterior Color")),
+    ):
+        value = first_spec(specs, *names)
+        if value:
+            parts.append(f"{label}: {value}.")
+    parts.append(f"Advertised vehicle price: NZ${price:,}.")
+    if on_road_costs_nzd is not None:
+        parts.append(
+            f"Additional on-road costs: NZ${on_road_costs_nzd:,}. "
+            f"Total including these on-road costs: NZ${price + on_road_costs_nzd:,}."
+        )
+    elif on_road_costs_note:
+        parts.append(f"On-road costs as advertised: {on_road_costs_note}.")
+    if in_transit:
+        parts.append("This vehicle is advertised as in transit. Contact us for arrival timing.")
+    parts.append(f"Available from {DEALER_NAME}, East Tamaki, Auckland.")
+    return " ".join(parts)[:4999]
 
 
 def parse_vehicle_page(url: str, html: str) -> Vehicle:
@@ -628,10 +664,14 @@ def parse_vehicle_page(url: str, html: str) -> Vehicle:
     stock_number = parse_stock_number(url, soup)
     year, make, model = parse_year_make_model(url, title)
     price = parse_price(soup)
+    on_road_costs_note, on_road_costs_nzd = parse_on_road_costs(soup)
+    in_transit = bool(re.search(r"\b(?:transit|trasit)\b", title, flags=re.I))
     mileage = parse_mileage(specs, page_text)
     images = parse_images(soup, url, title)
     transmission, drivetrain = parse_transmission_and_drivetrain(specs)
-    description = build_description(title, meta_content(soup, "og:description"), specs)
+    description = build_description(
+        title, specs, price, on_road_costs_note, on_road_costs_nzd, in_transit
+    )
 
     missing = []
     for label, value in (
@@ -666,6 +706,9 @@ def parse_vehicle_page(url: str, html: str) -> Vehicle:
         drivetrain=drivetrain,
         fuel_type=parse_fuel_type(soup, specs, page_text, title),
         engine_size=first_spec(specs, "Engine", "Engine Size"),
+        on_road_costs_nzd=on_road_costs_nzd,
+        on_road_costs_note=on_road_costs_note,
+        in_transit=in_transit,
     )
 
 
