@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-16T21:34:31.689650+00:00",
+  "generated_at_utc": "2026-10-17T19:24:46.019934+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 393,
-  "accepted_vehicle_count": 387,
+  "discovered_vehicle_count": 392,
+  "accepted_vehicle_count": 386,
   "rejected_vehicle_count": 6,
   "request_failure_count": 0,
-  "elapsed_seconds": 109.78,
+  "elapsed_seconds": 107.25,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2012-Nissan-Serena/13701",
