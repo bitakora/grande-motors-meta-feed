@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-21T20:39:34.456467+00:00",
+  "generated_at_utc": "2026-10-22T20:35:08.062835+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 398,
-  "accepted_vehicle_count": 390,
+  "discovered_vehicle_count": 403,
+  "accepted_vehicle_count": 395,
   "rejected_vehicle_count": 8,
   "request_failure_count": 0,
-  "elapsed_seconds": 134.23,
+  "elapsed_seconds": 116.01,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2004-Toyota-Corolla/13719",
