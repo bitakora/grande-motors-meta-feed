@@ -1,18 +1,18 @@
 {
-  "generated_at_utc": "2026-10-23T20:28:40.668418+00:00",
+  "generated_at_utc": "2026-10-24T19:30:40.909774+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 401,
-  "accepted_vehicle_count": 393,
+  "discovered_vehicle_count": 394,
+  "accepted_vehicle_count": 386,
   "rejected_vehicle_count": 8,
   "request_failure_count": 0,
-  "elapsed_seconds": 115.93,
+  "elapsed_seconds": 111.06,
   "rejected": [
     {
-      "url": "https://www.grandemotors.co.nz/vehicle/2004-Toyota-Corolla/13719",
+      "url": "https://www.grandemotors.co.nz/vehicle/2007-Toyota-Corolla/13716",
       "reason": "missing required field(s): price, image"
     },
     {
-      "url": "https://www.grandemotors.co.nz/vehicle/2007-Toyota-Corolla/13716",
+      "url": "https://www.grandemotors.co.nz/vehicle/2004-Toyota-Corolla/13719",
       "reason": "missing required field(s): price, image"
     },
     {
