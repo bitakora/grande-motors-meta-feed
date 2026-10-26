@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-10-25T19:37:53.810665+00:00",
+  "generated_at_utc": "2026-10-26T21:40:37.183365+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 391,
-  "accepted_vehicle_count": 382,
+  "discovered_vehicle_count": 390,
+  "accepted_vehicle_count": 381,
   "rejected_vehicle_count": 9,
   "request_failure_count": 0,
-  "elapsed_seconds": 126.23,
+  "elapsed_seconds": 145.98,
   "rejected": [
+    {
+      "url": "https://www.grandemotors.co.nz/vehicle/2015-Toyota-Ractis/13729",
+      "reason": "missing required field(s): price, image"
+    },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2004-Toyota-Corolla/13719",
       "reason": "missing required field(s): price, image"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2007-Toyota-Corolla/13716",
-      "reason": "missing required field(s): price, image"
-    },
-    {
-      "url": "https://www.grandemotors.co.nz/vehicle/2015-Toyota-Ractis/13729",
       "reason": "missing required field(s): price, image"
     },
     {
