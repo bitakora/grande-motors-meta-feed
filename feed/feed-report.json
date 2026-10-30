@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-29T21:50:43.269215+00:00",
+  "generated_at_utc": "2026-10-30T21:30:54.057457+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 398,
-  "accepted_vehicle_count": 389,
-  "rejected_vehicle_count": 9,
+  "discovered_vehicle_count": 400,
+  "accepted_vehicle_count": 392,
+  "rejected_vehicle_count": 8,
   "request_failure_count": 0,
-  "elapsed_seconds": 120.62,
+  "elapsed_seconds": 121.51,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2015-Toyota-Ractis/13729",
@@ -26,10 +26,6 @@
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2011-Mercedes-Benz-C200/13650",
       "reason": "missing required field(s): price, image"
-    },
-    {
-      "url": "https://www.grandemotors.co.nz/vehicle/2015-Honda-Odyssey/13598",
-      "reason": "missing required field(s): price"
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/0-Toyota-PriusPHV/13466",
