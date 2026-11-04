@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-03T22:18:50.548076+00:00",
+  "generated_at_utc": "2026-11-04T22:38:42.703217+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
   "discovered_vehicle_count": 393,
-  "accepted_vehicle_count": 384,
-  "rejected_vehicle_count": 9,
+  "accepted_vehicle_count": 385,
+  "rejected_vehicle_count": 8,
   "request_failure_count": 0,
-  "elapsed_seconds": 99.17,
+  "elapsed_seconds": 115.14,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2001-Honda-Civic/13733",
@@ -21,10 +21,6 @@
     },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2012-Nissan-Serena/13701",
-      "reason": "missing required field(s): price, image"
-    },
-    {
-      "url": "https://www.grandemotors.co.nz/vehicle/2005-Mitsubishi-Outlander/13664",
       "reason": "missing required field(s): price, image"
     },
     {
