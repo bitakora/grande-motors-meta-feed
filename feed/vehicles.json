@@ -1408,49 +1408,6 @@
     "in_transit": false
   },
   {
-    "stock_number": "12833",
-    "title": "2013 Lexus GS 450h Hybrid.Alarm.10 Airbags.Cruise control.",
-    "description": "2013 Lexus GS 450h Hybrid.Alarm.10 Airbags.Cruise control. Odometer: 26,720km. Engine: 3500cc, Hybrid (Electricity). Transmission: Automatic, Rear Wheel. Exterior colour: Pearl White. Advertised vehicle price: NZ$25,700. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$26,300. Available from Grande Motors Ltd, East Tamaki, Auckland.",
-    "url": "https://www.grandemotors.co.nz/vehicle/2013-Lexus-GS450h/12833",
-    "make": "Lexus",
-    "model": "GS450h",
-    "year": 2013,
-    "mileage_km": 26720,
-    "images": [
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-1.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-2.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-3.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-4.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-5.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-6.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-7.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-8.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-9.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-10.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-11.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-12.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-13.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-14.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-15.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-16.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-17.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-18.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-19.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c11a620f-2689-4ef1-a27e-e51f27f0d837-20.jpg"
-    ],
-    "body_style": "SEDAN",
-    "price_nzd": 25700,
-    "exterior_color": "Pearl White",
-    "interior_color": "Black, 5 Seats (Leather)",
-    "transmission": "Automatic",
-    "drivetrain": "RWD",
-    "fuel_type": "HYBRID",
-    "engine_size": "3500cc, Hybrid (Electricity)",
-    "on_road_costs_nzd": 600,
-    "on_road_costs_note": "plus $600 ORC",
-    "in_transit": false
-  },
-  {
     "stock_number": "13571",
     "title": "2013 Lexus GS 450h Hybrid.Park sensors.Rear cam.Cruise control.Alarm.",
     "description": "2013 Lexus GS 450h Hybrid.Park sensors.Rear cam.Cruise control.Alarm. Odometer: 106,400km. Engine: 3500cc, Hybrid (Electricity). Transmission: Automatic, Rear Wheel. Exterior colour: Silver. Advertised vehicle price: NZ$18,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$19,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
@@ -3535,6 +3492,48 @@
     "on_road_costs_nzd": 600,
     "on_road_costs_note": "plus $600 ORC",
     "in_transit": false
+  },
+  {
+    "stock_number": "13761",
+    "title": "2015 Lexus NX 300h Transit Hybrid",
+    "description": "2015 Lexus NX 300h Transit Hybrid. Odometer: 126,000km. Engine: 2500cc, Hybrid (Electricity). Transmission: Automatic. Exterior colour: White. Advertised vehicle price: NZ$25,780. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$26,380. This vehicle is advertised as in transit. Contact us for arrival timing. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "url": "https://www.grandemotors.co.nz/vehicle/2015-Lexus-NX300h/13761",
+    "make": "Lexus",
+    "model": "NX300h",
+    "year": 2015,
+    "mileage_km": 126000,
+    "images": [
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-1.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-2.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-3.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-4.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-5.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-6.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-7.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-8.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-9.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-10.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-11.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-12.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-13.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-14.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-15.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-16.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-17.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-18.jpg",
+      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b2bfc333-ee15-4c98-aed2-6ea20def7ad9-19.jpg"
+    ],
+    "body_style": "SUV",
+    "price_nzd": 25780,
+    "exterior_color": "White",
+    "interior_color": "Black, 5 Seats (Leather)",
+    "transmission": "Automatic",
+    "drivetrain": "",
+    "fuel_type": "HYBRID",
+    "engine_size": "2500cc, Hybrid (Electricity)",
+    "on_road_costs_nzd": 600,
+    "on_road_costs_note": "plus $600 ORC",
+    "in_transit": true
   },
   {
     "stock_number": "12207",
@@ -7481,7 +7480,7 @@
   {
     "stock_number": "13229",
     "title": "2016 Nissan Note Safety radar.Lane assist.Button start.Alarm.LOW KM.",
-    "description": "2016 Nissan Note Safety radar.Lane assist.Button start.Alarm.LOW KM. Odometer: 48,000km. Engine: 1200cc. Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$10,300. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$10,900. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Nissan Note Safety radar.Lane assist.Button start.Alarm.LOW KM. Odometer: 48,000km. Engine: 1200cc. Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$9,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$10,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Nissan-Note/13229",
     "make": "Nissan",
     "model": "Note",
@@ -7507,7 +7506,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-dac53a02-a9c3-4779-bc9f-0e95407c012b-17.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 10300,
+    "price_nzd": 9400,
     "exterior_color": "Red",
     "interior_color": "Black, 5 Seats (Cloth)",
     "transmission": "Automatic",
@@ -7521,7 +7520,7 @@
   {
     "stock_number": "13374",
     "title": "2016 Nissan Note Lane assist.Safety radar.Button start.",
-    "description": "2016 Nissan Note Lane assist.Safety radar.Button start. Odometer: 32,900km. Engine: 1200cc. Transmission: Automatic, Front Wheel. Exterior colour: Silver. Advertised vehicle price: NZ$10,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Nissan Note Lane assist.Safety radar.Button start. Odometer: 32,900km. Engine: 1200cc. Transmission: Automatic, Front Wheel. Exterior colour: Silver. Advertised vehicle price: NZ$9,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$10,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Nissan-Note/13374",
     "make": "Nissan",
     "model": "Note",
@@ -7548,7 +7547,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-2e634109-cb13-4788-a66a-fcf708945fdf-18.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 10400,
+    "price_nzd": 9900,
     "exterior_color": "Silver",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7562,7 +7561,7 @@
   {
     "stock_number": "13584",
     "title": "2016 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Button start.",
-    "description": "2016 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Button start. Odometer: 66,200km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Orange. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Button start. Odometer: 66,200km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Orange. Advertised vehicle price: NZ$10,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Nissan-Note/13584",
     "make": "Nissan",
     "model": "Note",
@@ -7590,7 +7589,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-7d5d5535-136c-4595-a52a-95a1943cb7c3-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 10900,
+    "price_nzd": 10600,
     "exterior_color": "Orange",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7604,7 +7603,7 @@
   {
     "stock_number": "13648",
     "title": "2016 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist.",
-    "description": "2016 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 48,250km. Engine: 1200cc, Hybrid (Electric). Transmission: Automatic, Front Wheel. Exterior colour: Orange. Advertised vehicle price: NZ$11,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 48,250km. Engine: 1200cc, Hybrid (Electric). Transmission: Automatic, Front Wheel. Exterior colour: Orange. Advertised vehicle price: NZ$11,700. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,300. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Nissan-Note/13648",
     "make": "Nissan",
     "model": "Note",
@@ -7631,7 +7630,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-79dd7fab-5786-4e46-9877-c8cc7f979866-18.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 11900,
+    "price_nzd": 11700,
     "exterior_color": "Orange",
     "interior_color": "5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7688,7 +7687,7 @@
   {
     "stock_number": "13367",
     "title": "2017 Nissan Note E-power.NISMO.Andriod/Apple Play.360°cam.Lane assist.Safety radar.Park sensors.",
-    "description": "2017 Nissan Note E-power.NISMO.Andriod/Apple Play.360°cam.Lane assist.Safety radar.Park sensors. Odometer: 103,500km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Nissan Note E-power.NISMO.Andriod/Apple Play.360°cam.Lane assist.Safety radar.Park sensors. Odometer: 103,500km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$12,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Nissan-Note/13367",
     "make": "Nissan",
     "model": "Note",
@@ -7717,7 +7716,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-2589b9d1-adc3-4418-821b-c40fb62b7761-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 12900,
+    "price_nzd": 12400,
     "exterior_color": "Black",
     "interior_color": "Black, 5 Seats (Cloth)",
     "transmission": "Automatic",
@@ -7731,7 +7730,7 @@
   {
     "stock_number": "13376",
     "title": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start.",
-    "description": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 56,700km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Grey. Advertised vehicle price: NZ$11,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 56,700km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Grey. Advertised vehicle price: NZ$11,200. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,800. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Nissan-Note/13376",
     "make": "Nissan",
     "model": "Note",
@@ -7756,7 +7755,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-b74a147e-23fd-470d-b3a7-09a06349e5b9-16.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 11600,
+    "price_nzd": 11200,
     "exterior_color": "Grey",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7770,7 +7769,7 @@
   {
     "stock_number": "13565",
     "title": "2017 Nissan Note Medalist.E-power.360°camera.Lane assist.Safety radar.Park sensors.",
-    "description": "2017 Nissan Note Medalist.E-power.360°camera.Lane assist.Safety radar.Park sensors. Odometer: 79,430km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Gold. Advertised vehicle price: NZ$11,300. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,900. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Nissan Note Medalist.E-power.360°camera.Lane assist.Safety radar.Park sensors. Odometer: 79,430km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Gold. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Nissan-Note/13565",
     "make": "Nissan",
     "model": "Note",
@@ -7798,7 +7797,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-cd95581f-dc44-4b68-b37c-956a1d4710a5-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 11300,
+    "price_nzd": 10900,
     "exterior_color": "Gold",
     "interior_color": "Brown, 5 Seats (Part leather seats)",
     "transmission": "Automatic",
@@ -7812,7 +7811,7 @@
   {
     "stock_number": "13602",
     "title": "2017 Nissan Note E-power.Lane assist.Safety radar.Button start.",
-    "description": "2017 Nissan Note E-power.Lane assist.Safety radar.Button start. Odometer: 64,890km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$11,200. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,800. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Nissan Note E-power.Lane assist.Safety radar.Button start. Odometer: 64,890km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Nissan-Note/13602",
     "make": "Nissan",
     "model": "Note",
@@ -7838,7 +7837,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-e374a15f-bc62-4af4-a748-88dcaad939d1-17.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 11200,
+    "price_nzd": 10900,
     "exterior_color": "Black",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7852,7 +7851,7 @@
   {
     "stock_number": "13603",
     "title": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start.",
-    "description": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 55,880km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$11,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 55,880km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$11,200. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,800. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Nissan-Note/13603",
     "make": "Nissan",
     "model": "Note",
@@ -7879,7 +7878,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-1735481f-4e50-472c-969d-54b9da64240d-18.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 11400,
+    "price_nzd": 11200,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -7893,7 +7892,7 @@
   {
     "stock_number": "13273",
     "title": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist.",
-    "description": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 79,900km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 79,900km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$11,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Nissan-Note/13273",
     "make": "Nissan",
     "model": "Note",
@@ -7921,7 +7920,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-994b5078-2803-4c42-8a61-704633d0a98f-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13900,
+    "price_nzd": 11400,
     "exterior_color": "Red",
     "interior_color": "Black, 5 Seats (Cloth)",
     "transmission": "Automatic",
@@ -7935,7 +7934,7 @@
   {
     "stock_number": "13327",
     "title": "2018 Nissan Note E-power.NISMO.360°camera.Lane assist.Safety radar.Park sensors.",
-    "description": "2018 Nissan Note E-power.NISMO.360°camera.Lane assist.Safety radar.Park sensors. Odometer: 60,600km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: DARKRED. Advertised vehicle price: NZ$16,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$17,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Nissan Note E-power.NISMO.360°camera.Lane assist.Safety radar.Park sensors. Odometer: 60,600km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: DARKRED. Advertised vehicle price: NZ$15,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Nissan-Note/13327",
     "make": "Nissan",
     "model": "Note",
@@ -7962,7 +7961,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-3c02db38-f94c-4afb-a29c-67e371bc5a9f-18.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 16400,
+    "price_nzd": 15400,
     "exterior_color": "DARKRED",
     "interior_color": "Black, 5 Seats (Alcantara)",
     "transmission": "Automatic",
@@ -7976,7 +7975,7 @@
   {
     "stock_number": "13349",
     "title": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist.",
-    "description": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 85,660km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$12,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Nissan Note E-power.360 camera.Safety radar.Park sensors.Lane assist. Odometer: 85,660km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Red. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Nissan-Note/13349",
     "make": "Nissan",
     "model": "Note",
@@ -8004,7 +8003,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-5499d1ac-cb32-4d29-b58f-bae31f888017-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 12500,
+    "price_nzd": 10900,
     "exterior_color": "Red",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8018,7 +8017,7 @@
   {
     "stock_number": "13362",
     "title": "2018 Nissan Note E-power.Medalist.360°camera.Safety radar.Radar cruise.Alarm.",
-    "description": "2018 Nissan Note E-power.Medalist.360°camera.Safety radar.Radar cruise.Alarm. Odometer: 10,650km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Aqua Dreamy Blue. Advertised vehicle price: NZ$14,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Nissan Note E-power.Medalist.360°camera.Safety radar.Radar cruise.Alarm. Odometer: 10,650km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Aqua Dreamy Blue. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Nissan-Note/13362",
     "make": "Nissan",
     "model": "Note",
@@ -8046,7 +8045,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-d9ce203b-6d78-4144-9d25-c71daa0ca11c-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 14900,
+    "price_nzd": 13900,
     "exterior_color": "Aqua Dreamy Blue",
     "interior_color": "Black, 5 Seats (Half leather)",
     "transmission": "Automatic",
@@ -8060,7 +8059,7 @@
   {
     "stock_number": "13484",
     "title": "2018 Nissan Note E-power.LED.Android/Apple CarPlay.360°camera.Safety radar.Park sensors.Lane assist.",
-    "description": "2018 Nissan Note E-power.LED.Android/Apple CarPlay.360°camera.Safety radar.Park sensors.Lane assist. Odometer: 50,900km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$12,700. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,300. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Nissan Note E-power.LED.Android/Apple CarPlay.360°camera.Safety radar.Park sensors.Lane assist. Odometer: 50,900km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$12,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Nissan-Note/13484",
     "make": "Nissan",
     "model": "Note",
@@ -8088,7 +8087,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-e971879a-93f1-47f3-8e7c-37efac7ee9fa-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 12700,
+    "price_nzd": 12400,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8102,7 +8101,7 @@
   {
     "stock_number": "13329",
     "title": "2019 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start.",
-    "description": "2019 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 50,800km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Dark Grey. Advertised vehicle price: NZ$13,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 50,800km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Dark Grey. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Nissan-Note/13329",
     "make": "Nissan",
     "model": "Note",
@@ -8128,7 +8127,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-96e18db8-9525-4aeb-8d4d-c8674732784e-17.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13600,
+    "price_nzd": 12900,
     "exterior_color": "Dark Grey",
     "interior_color": "Black (Cloth)",
     "transmission": "Automatic",
@@ -8142,7 +8141,7 @@
   {
     "stock_number": "13285",
     "title": "2020 Nissan Note E-power.360°camera.Lane assist.Safety radar.Park sensors.Button start.",
-    "description": "2020 Nissan Note E-power.360°camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 70,360km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: white. Advertised vehicle price: NZ$13,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2020 Nissan Note E-power.360°camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 70,360km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: white. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2020-Nissan-Note/13285",
     "make": "Nissan",
     "model": "Note",
@@ -8171,7 +8170,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-0ee89216-2a8a-4467-9796-91e85b8935a7-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13400,
+    "price_nzd": 12900,
     "exterior_color": "white",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8185,7 +8184,7 @@
   {
     "stock_number": "13332",
     "title": "2020 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start.",
-    "description": "2020 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 56,700km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$13,800. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,400. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2020 Nissan Note E-power.Rear camera.Lane assist.Safety radar.Park sensors.Button start. Odometer: 56,700km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Blue. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2020-Nissan-Note/13332",
     "make": "Nissan",
     "model": "Note",
@@ -8211,7 +8210,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-ca3cf178-2285-4a63-abac-dedb76c48609-17.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13800,
+    "price_nzd": 12900,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8225,7 +8224,7 @@
   {
     "stock_number": "13401",
     "title": "2020 Nissan Note E-power.NISMO.Lane assist.Safety radar.Park sensors.",
-    "description": "2020 Nissan Note E-power.NISMO.Lane assist.Safety radar.Park sensors. Odometer: 99,950km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: White. Advertised vehicle price: NZ$16,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$17,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2020 Nissan Note E-power.NISMO.Lane assist.Safety radar.Park sensors. Odometer: 99,950km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: White. Advertised vehicle price: NZ$15,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2020-Nissan-Note/13401",
     "make": "Nissan",
     "model": "Note",
@@ -8253,7 +8252,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-1da6a6fd-e1f3-4d3c-9209-be1b3496219d-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 16600,
+    "price_nzd": 15600,
     "exterior_color": "White",
     "interior_color": "Gray, 5 Seats (Alcantara)",
     "transmission": "Automatic",
@@ -8267,7 +8266,7 @@
   {
     "stock_number": "13363",
     "title": "2021 Nissan Note E-power.LED.360°camera.Blind spot.Lane assist.Safety radar.Park sens.",
-    "description": "2021 Nissan Note E-power.LED.360°camera.Blind spot.Lane assist.Safety radar.Park sens. Odometer: 89,000km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$16,300. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,900. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2021 Nissan Note E-power.LED.360°camera.Blind spot.Lane assist.Safety radar.Park sens. Odometer: 89,000km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Black. Advertised vehicle price: NZ$15,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2021-Nissan-Note/13363",
     "make": "Nissan",
     "model": "Note",
@@ -8295,7 +8294,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-3d39a777-1bd0-4060-a144-990c8a304c74-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 16300,
+    "price_nzd": 15600,
     "exterior_color": "Black",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8309,7 +8308,7 @@
   {
     "stock_number": "13682",
     "title": "2021 Nissan Note E-power.360°camera.Blind spot.Lane assist.Safety radar.Park sensors.",
-    "description": "2021 Nissan Note E-power.360°camera.Blind spot.Lane assist.Safety radar.Park sensors. Odometer: 78,300km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Silver. Advertised vehicle price: NZ$15,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2021 Nissan Note E-power.360°camera.Blind spot.Lane assist.Safety radar.Park sensors. Odometer: 78,300km. Engine: 1200cc, Hybrid (Electricity). Transmission: Automatic, Front Wheel. Exterior colour: Silver. Advertised vehicle price: NZ$14,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2021-Nissan-Note/13682",
     "make": "Nissan",
     "model": "Note",
@@ -8337,7 +8336,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-244b7fa0-f62d-4fe8-9a75-6dd90d70146d-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 15400,
+    "price_nzd": 14900,
     "exterior_color": "Silver",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8944,7 +8943,7 @@
   {
     "stock_number": "12943",
     "title": "2024 Subaru CROSSTREK Hybrid.4WD.Radar cruise.Lane assist.Park sens.Rear camera.",
-    "description": "2024 Subaru CROSSTREK Hybrid.4WD.Radar cruise.Lane assist.Park sens.Rear camera. Odometer: 50,090km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Black. Advertised vehicle price: NZ$32,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$33,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2024 Subaru CROSSTREK Hybrid.4WD.Radar cruise.Lane assist.Park sens.Rear camera. Odometer: 50,090km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Black. Advertised vehicle price: NZ$30,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$31,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2024-Subaru-CROSSTREK/12943",
     "make": "Subaru",
     "model": "CROSSTREK",
@@ -8973,7 +8972,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-e739709c-759a-450e-bdc1-4a0bff812e04-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 32500,
+    "price_nzd": 30900,
     "exterior_color": "Black",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -8987,7 +8986,7 @@
   {
     "stock_number": "12875",
     "title": "2013 Subaru Forester Turbo.Cruise Control.Elecric Seats",
-    "description": "2013 Subaru Forester Turbo.Cruise Control.Elecric Seats. Odometer: 99,221km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$14,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2013 Subaru Forester Turbo.Cruise Control.Elecric Seats. Odometer: 99,221km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2013-Subaru-Forester/12875",
     "make": "Subaru",
     "model": "Forester",
@@ -9015,7 +9014,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-ef222af6-2b60-44b9-8d81-b5b6c6b44fa2-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 14900,
+    "price_nzd": 13900,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9072,7 +9071,7 @@
   {
     "stock_number": "12713",
     "title": "2013 Subaru Impreza Eyesight.4WD.Radar cruise.Rear camera.",
-    "description": "2013 Subaru Impreza Eyesight.4WD.Radar cruise.Rear camera. Odometer: 19,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: NAVYBLUE. Advertised vehicle price: NZ$12,490. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,090. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2013 Subaru Impreza Eyesight.4WD.Radar cruise.Rear camera. Odometer: 19,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: NAVYBLUE. Advertised vehicle price: NZ$11,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2013-Subaru-Impreza/12713",
     "make": "Subaru",
     "model": "Impreza",
@@ -9100,7 +9099,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-0ddba6c9-b86c-4d2d-8f87-8433eb5ff838-19.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 12490,
+    "price_nzd": 11400,
     "exterior_color": "NAVYBLUE",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9114,7 +9113,7 @@
   {
     "stock_number": "12714",
     "title": "2013 Subaru Impreza 4WD.Eyesight.Lane assist.Radar cruise.Rear camera.",
-    "description": "2013 Subaru Impreza 4WD.Eyesight.Lane assist.Radar cruise.Rear camera. Odometer: 59,200km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Red. Advertised vehicle price: NZ$10,980. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,580. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2013 Subaru Impreza 4WD.Eyesight.Lane assist.Radar cruise.Rear camera. Odometer: 59,200km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Red. Advertised vehicle price: NZ$10,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2013-Subaru-Impreza/12714",
     "make": "Subaru",
     "model": "Impreza",
@@ -9139,7 +9138,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-574621e0-c41d-434c-819f-03e3e4bc7ad8-16.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 10980,
+    "price_nzd": 10400,
     "exterior_color": "Red",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9153,7 +9152,7 @@
   {
     "stock_number": "12608",
     "title": "2015 Subaru Impreza Sport.Hybrid.Eyesight.Radar cruise.Lane assist.Button start.",
-    "description": "2015 Subaru Impreza Sport.Hybrid.Eyesight.Radar cruise.Lane assist.Button start. Odometer: 110,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$13,490. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,090. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2015 Subaru Impreza Sport.Hybrid.Eyesight.Radar cruise.Lane assist.Button start. Odometer: 110,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$11,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2015-Subaru-Impreza/12608",
     "make": "Subaru",
     "model": "Impreza",
@@ -9182,7 +9181,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-da18b897-e77f-4933-9bc0-fd27be7f215f-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13490,
+    "price_nzd": 11900,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Leather/Alcantara)",
     "transmission": "Automatic",
@@ -9196,7 +9195,7 @@
   {
     "stock_number": "12812",
     "title": "2015 Subaru Impreza G4.4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear cam.Park sens.",
-    "description": "2015 Subaru Impreza G4.4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear cam.Park sens. Odometer: 71,780km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$12,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2015 Subaru Impreza G4.4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear cam.Park sens. Odometer: 71,780km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$11,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2015-Subaru-Impreza/12812",
     "make": "Subaru",
     "model": "Impreza",
@@ -9225,7 +9224,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-35f3ccc8-c39f-4f56-9488-f3f8964ce656-20.jpg"
     ],
     "body_style": "SEDAN",
-    "price_nzd": 12500,
+    "price_nzd": 11400,
     "exterior_color": "Silver",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9239,7 +9238,7 @@
   {
     "stock_number": "12929",
     "title": "2016 Subaru Impreza Sport.Rea camera.Parking sensors.",
-    "description": "2016 Subaru Impreza Sport.Rea camera.Parking sensors. Odometer: 88,840km. Engine: 1600cc. Transmission: Automatic. Exterior colour: Navy. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Subaru Impreza Sport.Rea camera.Parking sensors. Odometer: 88,840km. Engine: 1600cc. Transmission: Automatic. Exterior colour: Navy. Advertised vehicle price: NZ$10,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Subaru-Impreza/12929",
     "make": "Subaru",
     "model": "Impreza",
@@ -9264,7 +9263,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-2596c908-a432-4871-b951-27c3bab3eace-16.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 10900,
+    "price_nzd": 10400,
     "exterior_color": "Navy",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9278,7 +9277,7 @@
   {
     "stock_number": "12732",
     "title": "2017 Subaru Impreza AWD.Eyesight.LKA.Radar cruise.LOW KM.",
-    "description": "2017 Subaru Impreza AWD.Eyesight.LKA.Radar cruise.LOW KM. Odometer: 61,091km. Engine: 2000cc. Transmission: Automatic. Exterior colour: Blue. Advertised vehicle price: NZ$16,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$17,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru Impreza AWD.Eyesight.LKA.Radar cruise.LOW KM. Odometer: 61,091km. Engine: 2000cc. Transmission: Automatic. Exterior colour: Blue. Advertised vehicle price: NZ$15,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-Impreza/12732",
     "make": "Subaru",
     "model": "Impreza",
@@ -9307,7 +9306,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-3673c76e-b8e8-4ada-8f7b-7feac3f7c18a-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 16400,
+    "price_nzd": 15900,
     "exterior_color": "Blue",
     "interior_color": "Black",
     "transmission": "Automatic",
@@ -9321,7 +9320,7 @@
   {
     "stock_number": "12931",
     "title": "2017 Subaru Impreza Sport.Eyesight.Radar cruise.Lane assist.Button start.",
-    "description": "2017 Subaru Impreza Sport.Eyesight.Radar cruise.Lane assist.Button start. Odometer: 114,500km. Engine: 2000cc. Transmission: Automatic, Front Wheel. Exterior colour: Grey. Advertised vehicle price: NZ$13,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru Impreza Sport.Eyesight.Radar cruise.Lane assist.Button start. Odometer: 114,500km. Engine: 2000cc. Transmission: Automatic, Front Wheel. Exterior colour: Grey. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-Impreza/12931",
     "make": "Subaru",
     "model": "Impreza",
@@ -9350,7 +9349,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-53977271-5873-4fcf-81e3-8290a269a614-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 13400,
+    "price_nzd": 12900,
     "exterior_color": "Grey",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9364,7 +9363,7 @@
   {
     "stock_number": "13125",
     "title": "2017 Subaru Impreza Eyesight.Lane assist..Blind spot.Radar cruise.Rear camera.",
-    "description": "2017 Subaru Impreza Eyesight.Lane assist..Blind spot.Radar cruise.Rear camera. Odometer: 101,640km. Engine: 2000cc. Transmission: Automatic. Exterior colour: Pearl White. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru Impreza Eyesight.Lane assist..Blind spot.Radar cruise.Rear camera. Odometer: 101,640km. Engine: 2000cc. Transmission: Automatic. Exterior colour: Pearl White. Advertised vehicle price: NZ$12,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-Impreza/13125",
     "make": "Subaru",
     "model": "Impreza",
@@ -9393,7 +9392,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-919b280c-4862-47ad-a92e-0457a13ad068-20.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 12900,
+    "price_nzd": 12500,
     "exterior_color": "Pearl White",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9450,7 +9449,7 @@
   {
     "stock_number": "13173",
     "title": "2021 Subaru Impreza Eyesight.Lane assist.Radar cruise.Park sens.Rear camera.",
-    "description": "2021 Subaru Impreza Eyesight.Lane assist.Radar cruise.Park sens.Rear camera. Odometer: 101,630km. Engine: 1600cc. Transmission: Automatic, Front Wheel. Exterior colour: White. Advertised vehicle price: NZ$15,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2021 Subaru Impreza Eyesight.Lane assist.Radar cruise.Park sens.Rear camera. Odometer: 101,630km. Engine: 1600cc. Transmission: Automatic, Front Wheel. Exterior colour: White. Advertised vehicle price: NZ$15,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2021-Subaru-Impreza/13173",
     "make": "Subaru",
     "model": "Impreza",
@@ -9476,7 +9475,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-3cd955e5-473b-46de-8701-8203f1cf42aa-17.jpg"
     ],
     "body_style": "HATCHBACK",
-    "price_nzd": 15900,
+    "price_nzd": 15400,
     "exterior_color": "White",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9490,7 +9489,7 @@
   {
     "stock_number": "13174",
     "title": "2013 Subaru Legacy Eyesight.4WD.Lane assist.Radar cruise.Rear cam.Alarm.",
-    "description": "2013 Subaru Legacy Eyesight.4WD.Lane assist.Radar cruise.Rear cam.Alarm. Odometer: 106,300km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: Red. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2013 Subaru Legacy Eyesight.4WD.Lane assist.Radar cruise.Rear cam.Alarm. Odometer: 106,300km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: Red. Advertised vehicle price: NZ$10,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2013-Subaru-Legacy/13174",
     "make": "Subaru",
     "model": "Legacy",
@@ -9519,7 +9518,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-3e4322f4-be35-419e-89af-a2f21084eaed-20.jpg"
     ],
     "body_style": "WAGON",
-    "price_nzd": 10900,
+    "price_nzd": 10400,
     "exterior_color": "Red",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9533,7 +9532,7 @@
   {
     "stock_number": "12759",
     "title": "2017 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start.",
-    "description": "2017 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 100,830km. Engine: 1590cc. Transmission: Automatic, 4WD. Exterior colour: Pearl White. Advertised vehicle price: NZ$14,950. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,550. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 100,830km. Engine: 1590cc. Transmission: Automatic, 4WD. Exterior colour: Pearl White. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-Levorg/12759",
     "make": "Subaru",
     "model": "Levorg",
@@ -9562,7 +9561,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-5b7069df-8eb4-40ef-b8e5-db19ad1dff9c-20.jpg"
     ],
     "body_style": "WAGON",
-    "price_nzd": 14950,
+    "price_nzd": 13900,
     "exterior_color": "Pearl White",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9576,7 +9575,7 @@
   {
     "stock_number": "12857",
     "title": "2019 Subaru Levorg 4WD.Eyesignt.Android/AppleCarPlay.Lane assist.Radar cruise.Rear cam.Button start.",
-    "description": "2019 Subaru Levorg 4WD.Eyesignt.Android/AppleCarPlay.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 90,800km. Engine: 1600cc. Transmission: Automatic, 4WD. Exterior colour: Navy. Advertised vehicle price: NZ$18,200. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$18,800. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Subaru Levorg 4WD.Eyesignt.Android/AppleCarPlay.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 90,800km. Engine: 1600cc. Transmission: Automatic, 4WD. Exterior colour: Navy. Advertised vehicle price: NZ$17,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$18,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-Levorg/12857",
     "make": "Subaru",
     "model": "Levorg",
@@ -9605,7 +9604,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8e73241c-aaa3-455b-b04c-d10a1e3ac3f4-20.jpg"
     ],
     "body_style": "WAGON",
-    "price_nzd": 18200,
+    "price_nzd": 17900,
     "exterior_color": "Navy",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9619,7 +9618,7 @@
   {
     "stock_number": "12856",
     "title": "2020 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start.",
-    "description": "2020 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 36,065km. Engine: 1800cc. Transmission: Automatic, 4WD. Exterior colour: Navy. Advertised vehicle price: NZ$29,700. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$30,300. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2020 Subaru Levorg 4WD.Eyesignt.Lane assist.Radar cruise.Rear cam.Button start. Odometer: 36,065km. Engine: 1800cc. Transmission: Automatic, 4WD. Exterior colour: Navy. Advertised vehicle price: NZ$28,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$29,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2020-Subaru-Levorg/12856",
     "make": "Subaru",
     "model": "Levorg",
@@ -9646,7 +9645,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-a2f12c2a-3171-4d4f-98d5-41ade58ced52-18.jpg"
     ],
     "body_style": "WAGON",
-    "price_nzd": 29700,
+    "price_nzd": 28500,
     "exterior_color": "Navy",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9660,7 +9659,7 @@
   {
     "stock_number": "12876",
     "title": "2021 Subaru Levorg STI.4WD.Leather.360°cam.Lane assist.Radar cruise.",
-    "description": "2021 Subaru Levorg STI.4WD.Leather.360°cam.Lane assist.Radar cruise. Odometer: 58,000km. Engine: 1800cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$29,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$30,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2021 Subaru Levorg STI.4WD.Leather.360°cam.Lane assist.Radar cruise. Odometer: 58,000km. Engine: 1800cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$27,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$28,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2021-Subaru-Levorg/12876",
     "make": "Subaru",
     "model": "Levorg",
@@ -9688,7 +9687,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-fe48f68c-bd60-4b3d-afdd-c1eaa5272eed-19.jpg"
     ],
     "body_style": "WAGON",
-    "price_nzd": 29900,
+    "price_nzd": 27900,
     "exterior_color": "Silver",
     "interior_color": "Burgundy, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9702,7 +9701,7 @@
   {
     "stock_number": "12561",
     "title": "2016 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Park sens.Alarm.",
-    "description": "2016 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Park sens.Alarm. Odometer: 110,320km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: BEIGEMETALIC. Advertised vehicle price: NZ$16,480. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$17,080. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2016 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Park sens.Alarm. Odometer: 110,320km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: BEIGEMETALIC. Advertised vehicle price: NZ$16,300. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,900. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2016-Subaru-Outback/12561",
     "make": "Subaru",
     "model": "Outback",
@@ -9731,7 +9730,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c3155584-a98a-48d4-a58b-0fb49c42ebcf-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 16480,
+    "price_nzd": 16300,
     "exterior_color": "BEIGEMETALIC",
     "interior_color": "5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9745,7 +9744,7 @@
   {
     "stock_number": "12758",
     "title": "2018 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Alarm.",
-    "description": "2018 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Alarm. Odometer: 100,646km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: Grey. Advertised vehicle price: NZ$20,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$21,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Subaru Outback 4WD.Eyesight.Blind spot.Leather.Radar cruise.Lane assist.Alarm. Odometer: 100,646km. Engine: 2500cc. Transmission: Automatic, 4WD. Exterior colour: Grey. Advertised vehicle price: NZ$19,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Subaru-Outback/12758",
     "make": "Subaru",
     "model": "Outback",
@@ -9774,7 +9773,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-35b7342f-a8ec-4552-a96f-3c91a996e49c-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 20500,
+    "price_nzd": 19900,
     "exterior_color": "Grey",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9788,7 +9787,7 @@
   {
     "stock_number": "12771",
     "title": "2012 Subaru XV 2.0I-L EYESIGHT 4WD",
-    "description": "2012 Subaru XV 2.0I-L EYESIGHT 4WD. Odometer: 100,000km. Engine: 2000cc. Transmission: Automatic. Exterior colour: white. Advertised vehicle price: NZ$11,300. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,900. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2012 Subaru XV 2.0I-L EYESIGHT 4WD. Odometer: 100,000km. Engine: 2000cc. Transmission: Automatic. Exterior colour: white. Advertised vehicle price: NZ$10,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$11,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2012-Subaru-XV/12771",
     "make": "Subaru",
     "model": "XV",
@@ -9816,7 +9815,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-ee2dc0ea-c721-488c-a1e9-d0d2046d8ec2-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 11300,
+    "price_nzd": 10900,
     "exterior_color": "white",
     "interior_color": "Black",
     "transmission": "Automatic",
@@ -9830,7 +9829,7 @@
   {
     "stock_number": "12945",
     "title": "2013 Subaru XV 4WD.Eyesight.Radar cruise Rear camera.Button start.",
-    "description": "2013 Subaru XV 4WD.Eyesight.Radar cruise Rear camera.Button start. Odometer: 78,560km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Black. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2013 Subaru XV 4WD.Eyesight.Radar cruise Rear camera.Button start. Odometer: 78,560km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Black. Advertised vehicle price: NZ$11,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$12,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2013-Subaru-XV/12945",
     "make": "Subaru",
     "model": "XV",
@@ -9858,7 +9857,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-96d3f4ad-5142-4614-8830-d4d63958a2cc-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 12900,
+    "price_nzd": 11900,
     "exterior_color": "Black",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -9872,7 +9871,7 @@
   {
     "stock_number": "12566",
     "title": "2014 Subaru XV Hybrid.4WD.EyeSight.Radar cruise Rear camera.New tires.",
-    "description": "2014 Subaru XV Hybrid.4WD.EyeSight.Radar cruise Rear camera.New tires. Odometer: 90,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$13,800. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,400. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2014 Subaru XV Hybrid.4WD.EyeSight.Radar cruise Rear camera.New tires. Odometer: 90,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$12,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$13,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2014-Subaru-XV/12566",
     "make": "Subaru",
     "model": "XV",
@@ -9900,7 +9899,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-db853b8f-918d-422a-a7e2-37524f0d6e93-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 13800,
+    "price_nzd": 12900,
     "exterior_color": "Silver",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -9914,7 +9913,7 @@
   {
     "stock_number": "12598",
     "title": "2014 Subaru XV Hybrid.4WD.Eyesight.Radar cruise Rear camera.Button start.",
-    "description": "2014 Subaru XV Hybrid.4WD.Eyesight.Radar cruise Rear camera.Button start. Odometer: 56,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Green. Advertised vehicle price: NZ$14,970. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,570. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2014 Subaru XV Hybrid.4WD.Eyesight.Radar cruise Rear camera.Button start. Odometer: 56,000km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Green. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2014-Subaru-XV/12598",
     "make": "Subaru",
     "model": "XV",
@@ -9941,7 +9940,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8175c355-f7ec-4f78-a748-2fc296be693e-18.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 14970,
+    "price_nzd": 13900,
     "exterior_color": "Green",
     "interior_color": "Grey, 5 Seats (Alcantara)",
     "transmission": "Automatic",
@@ -9955,7 +9954,7 @@
   {
     "stock_number": "12889",
     "title": "2014 Subaru XV 4WD.Cruise control.Rear camera.",
-    "description": "2014 Subaru XV 4WD.Cruise control.Rear camera. Odometer: 77,240km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Orange. Advertised vehicle price: NZ$13,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2014 Subaru XV 4WD.Cruise control.Rear camera. Odometer: 77,240km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Orange. Advertised vehicle price: NZ$13,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$14,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2014-Subaru-XV/12889",
     "make": "Subaru",
     "model": "XV",
@@ -9982,7 +9981,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-791477b4-ec25-4db3-a42f-213e426f6cd4-18.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 13900,
+    "price_nzd": 13400,
     "exterior_color": "Orange",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10035,52 +10034,9 @@
     "in_transit": false
   },
   {
-    "stock_number": "12715",
-    "title": "2016 Subaru XV 4WD.Eyesight.Radar cruise.New tires.Button start.",
-    "description": "2016 Subaru XV 4WD.Eyesight.Radar cruise.New tires.Button start. Odometer: 84,200km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Red. Advertised vehicle price: NZ$14,880. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$15,480. Available from Grande Motors Ltd, East Tamaki, Auckland.",
-    "url": "https://www.grandemotors.co.nz/vehicle/2016-Subaru-XV/12715",
-    "make": "Subaru",
-    "model": "XV",
-    "year": 2016,
-    "mileage_km": 84200,
-    "images": [
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-1.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-2.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-3.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-4.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-5.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-6.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-7.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-8.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-9.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-10.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-11.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-12.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-13.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-14.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-15.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-16.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-17.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-18.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-19.jpg",
-      "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-8a04a267-bada-444a-adb9-acab8816dd8d-20.jpg"
-    ],
-    "body_style": "SUV",
-    "price_nzd": 14880,
-    "exterior_color": "Red",
-    "interior_color": "Black, 5 Seats (Fabric)",
-    "transmission": "Automatic",
-    "drivetrain": "4X4",
-    "fuel_type": "GASOLINE",
-    "engine_size": "2000cc",
-    "on_road_costs_nzd": 600,
-    "on_road_costs_note": "plus $600 ORC",
-    "in_transit": false
-  },
-  {
     "stock_number": "12722",
     "title": "2017 Subaru XV 4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear camera.Button start.",
-    "description": "2017 Subaru XV 4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear camera.Button start. Odometer: 118,170km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Grey. Advertised vehicle price: NZ$15,940. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,540. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru XV 4WD.Eyesight.Leather.Radar cruise.Lane assist.Rear camera.Button start. Odometer: 118,170km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Grey. Advertised vehicle price: NZ$15,800. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$16,400. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-XV/12722",
     "make": "Subaru",
     "model": "XV",
@@ -10108,7 +10064,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-cf607bc6-3357-4830-91bd-13fb7b015877-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 15940,
+    "price_nzd": 15800,
     "exterior_color": "Grey",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -10122,7 +10078,7 @@
   {
     "stock_number": "12801",
     "title": "2017 Subaru XV Eyesight.Lane assist.Radar cruise.Rear camera.Roof rails.",
-    "description": "2017 Subaru XV Eyesight.Lane assist.Radar cruise.Rear camera.Roof rails. Odometer: 63,970km. Engine: 2000cc, Petrol. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$19,890. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,490. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru XV Eyesight.Lane assist.Radar cruise.Rear camera.Roof rails. Odometer: 63,970km. Engine: 2000cc, Petrol. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$19,700. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,300. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-XV/12801",
     "make": "Subaru",
     "model": "XV",
@@ -10150,7 +10106,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-2698ff41-5572-4795-bb31-3460dbe93e26-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 19890,
+    "price_nzd": 19700,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10164,7 +10120,7 @@
   {
     "stock_number": "12920",
     "title": "2017 Subaru XV (Impreza).Eyesight.4WD.Radar cruise.Lane assist.Rear cam.",
-    "description": "2017 Subaru XV (Impreza).Eyesight.4WD.Radar cruise.Lane assist.Rear cam. Odometer: 84,000km. Engine: 2000cc, Petrol. Transmission: Automatic. Exterior colour: white. Advertised vehicle price: NZ$18,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$19,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru XV (Impreza).Eyesight.4WD.Radar cruise.Lane assist.Rear cam. Odometer: 84,000km. Engine: 2000cc, Petrol. Transmission: Automatic. Exterior colour: white. Advertised vehicle price: NZ$17,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$18,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-XV/12920",
     "make": "Subaru",
     "model": "XV",
@@ -10192,7 +10148,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-9ae39d49-745d-4dca-bd18-6d3beee819ae-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 18900,
+    "price_nzd": 17900,
     "exterior_color": "white",
     "interior_color": "Black",
     "transmission": "Automatic",
@@ -10206,7 +10162,7 @@
   {
     "stock_number": "12935",
     "title": "2017 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist.",
-    "description": "2017 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 66,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$19,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2017 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 66,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$19,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2017-Subaru-XV/12935",
     "make": "Subaru",
     "model": "XV",
@@ -10235,7 +10191,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-59c17fe8-c861-439c-853e-459c521bc17f-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 19900,
+    "price_nzd": 19400,
     "exterior_color": "Blue",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10249,7 +10205,7 @@
   {
     "stock_number": "12749",
     "title": "2018 Subaru XV (Impreza).Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens.",
-    "description": "2018 Subaru XV (Impreza).Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens. Odometer: 34,375km. Engine: 2000cc, Hybrid (Electricity). Transmission: Auto, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$23,980. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,580. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2018 Subaru XV (Impreza).Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens. Odometer: 34,375km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$23,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2018-Subaru-XV/12749",
     "make": "Subaru",
     "model": "XV",
@@ -10278,7 +10234,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-1c3b7fa5-b9f2-4a2d-8c70-762966e215a2-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 23980,
+    "price_nzd": 23400,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Leather)",
     "transmission": "Automatic",
@@ -10334,8 +10290,8 @@
   },
   {
     "stock_number": "12858",
-    "title": "2019 Subaru XV (Impreza).Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens.",
-    "description": "2019 Subaru XV (Impreza).Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens. Odometer: 57,860km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Pearl White. Advertised vehicle price: NZ$23,400. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,000. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "title": "2019 Subaru XV Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens.",
+    "description": "2019 Subaru XV Advance.Hybrid.4WD.Eyesight.Lane assist.Radar cruise.Park sens. Odometer: 57,860km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Pearl White. Advertised vehicle price: NZ$22,600. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$23,200. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-XV/12858",
     "make": "Subaru",
     "model": "XV",
@@ -10363,7 +10319,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-4b4e8f52-c2e6-4331-b669-561e5f540715-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 23400,
+    "price_nzd": 22600,
     "exterior_color": "Pearl White",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10377,7 +10333,7 @@
   {
     "stock_number": "12869",
     "title": "2019 Subaru XV Hybrid.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist.",
-    "description": "2019 Subaru XV Hybrid.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 119,630km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$19,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$20,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Subaru XV Hybrid.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 119,630km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$18,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$19,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-XV/12869",
     "make": "Subaru",
     "model": "XV",
@@ -10405,7 +10361,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-ebdf26f3-31a9-44bc-94b0-7031b87a6ade-19.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 19900,
+    "price_nzd": 18900,
     "exterior_color": "Blue",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10419,7 +10375,7 @@
   {
     "stock_number": "12890",
     "title": "2019 Subaru XV 4WD.Eyesight.Android/ApplePlay.Blind spot.Radar cruise.Lane assist.Park sens.Rear cam.",
-    "description": "2019 Subaru XV 4WD.Eyesight.Android/ApplePlay.Blind spot.Radar cruise.Lane assist.Park sens.Rear cam. Odometer: 42,280km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$24,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$25,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Subaru XV 4WD.Eyesight.Android/ApplePlay.Blind spot.Radar cruise.Lane assist.Park sens.Rear cam. Odometer: 42,280km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Silver. Advertised vehicle price: NZ$23,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-XV/12890",
     "make": "Subaru",
     "model": "XV",
@@ -10448,7 +10404,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-92ad4761-1190-4dd8-b0e9-4162745af9e5-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 24500,
+    "price_nzd": 23900,
     "exterior_color": "Silver",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10462,7 +10418,7 @@
   {
     "stock_number": "12914",
     "title": "2019 Subaru XV Hybrid.4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist.",
-    "description": "2019 Subaru XV Hybrid.4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 63,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$23,500. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,100. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Subaru XV Hybrid.4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 63,000km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$22,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$23,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-XV/12914",
     "make": "Subaru",
     "model": "XV",
@@ -10491,7 +10447,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-d148b515-bdea-495d-9bc7-ee196c1f8121-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 23500,
+    "price_nzd": 22900,
     "exterior_color": "Blue",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10548,7 +10504,7 @@
   {
     "stock_number": "13512",
     "title": "2019 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist.",
-    "description": "2019 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 73,875km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$22,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$23,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2019 Subaru XV 4WD.Eyesight.Blind spot.Radar cruise.Rear camera.Lane assist. Odometer: 73,875km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$20,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$21,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2019-Subaru-XV/13512",
     "make": "Subaru",
     "model": "XV",
@@ -10577,7 +10533,7 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-c0ca0b68-e461-49fd-b57c-adaa153ce248-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 22900,
+    "price_nzd": 20900,
     "exterior_color": "Blue",
     "interior_color": "Grey, 5 Seats (Fabric)",
     "transmission": "Automatic",
@@ -10591,7 +10547,7 @@
   {
     "stock_number": "13127",
     "title": "2021 Subaru XV Hybrid.Advance.4WD.Eyesight.Radar cruise.Lane assist.Park sens.Rear cam.",
-    "description": "2021 Subaru XV Hybrid.Advance.4WD.Eyesight.Radar cruise.Lane assist.Park sens.Rear cam. Odometer: 75,330km. Engine: 2000cc. Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$24,900. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$25,500. Available from Grande Motors Ltd, East Tamaki, Auckland.",
+    "description": "2021 Subaru XV Hybrid.Advance.4WD.Eyesight.Radar cruise.Lane assist.Park sens.Rear cam. Odometer: 75,330km. Engine: 2000cc, Hybrid (Electricity). Transmission: Automatic, 4WD. Exterior colour: Blue. Advertised vehicle price: NZ$23,800. Additional on-road costs: NZ$600. Total including these on-road costs: NZ$24,400. Available from Grande Motors Ltd, East Tamaki, Auckland.",
     "url": "https://www.grandemotors.co.nz/vehicle/2021-Subaru-XV/13127",
     "make": "Subaru",
     "model": "XV",
@@ -10620,13 +10576,13 @@
       "https://www.grandemotors.co.nz/Motorcentral/VehicleData/GRA-486bc7a5-26d4-4c5d-883e-15c3370f2d53-20.jpg"
     ],
     "body_style": "SUV",
-    "price_nzd": 24900,
+    "price_nzd": 23800,
     "exterior_color": "Blue",
     "interior_color": "Black, 5 Seats (Fabric)",
     "transmission": "Automatic",
     "drivetrain": "4X4",
     "fuel_type": "HYBRID",
-    "engine_size": "2000cc",
+    "engine_size": "2000cc, Hybrid (Electricity)",
     "on_road_costs_nzd": 600,
     "on_road_costs_note": "plus $600 ORC",
     "in_transit": false
