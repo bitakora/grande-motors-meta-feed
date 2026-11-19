@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-11-18T23:24:39.730725+00:00",
+  "generated_at_utc": "2026-11-19T23:35:54.066229+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 394,
-  "accepted_vehicle_count": 387,
+  "discovered_vehicle_count": 389,
+  "accepted_vehicle_count": 382,
   "rejected_vehicle_count": 7,
   "request_failure_count": 0,
-  "elapsed_seconds": 117.71,
+  "elapsed_seconds": 104.31,
   "rejected": [
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2020-Honda-Shuttle/13760",
