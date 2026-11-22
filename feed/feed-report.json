@@ -1,12 +1,16 @@
 {
-  "generated_at_utc": "2026-11-21T22:12:17.940109+00:00",
+  "generated_at_utc": "2026-11-22T22:29:25.112104+00:00",
   "source_inventory_url": "https://www.grandemotors.co.nz/vehicles",
-  "discovered_vehicle_count": 383,
-  "accepted_vehicle_count": 377,
-  "rejected_vehicle_count": 6,
+  "discovered_vehicle_count": 381,
+  "accepted_vehicle_count": 374,
+  "rejected_vehicle_count": 7,
   "request_failure_count": 0,
-  "elapsed_seconds": 120.54,
+  "elapsed_seconds": 100.42,
   "rejected": [
+    {
+      "url": "https://www.grandemotors.co.nz/vehicle/2018-Subaru-Impreza/13778",
+      "reason": "missing required field(s): price, image"
+    },
     {
       "url": "https://www.grandemotors.co.nz/vehicle/2020-Honda-Shuttle/13760",
       "reason": "missing required field(s): price, image"
